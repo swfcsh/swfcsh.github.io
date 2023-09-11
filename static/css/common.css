@@ -112,6 +112,12 @@ input:-webkit-autofill {
   align-items: center;
   justify-content: space-between;
 }
+.header .name {
+  margin-left: 3%; 
+  margin-right: auto;
+  font-size: 28px;
+  font-weight: bolder;
+}
 .header .logo {
   flex-shrink: 0;
   width: 80px;
