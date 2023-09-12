@@ -18,7 +18,7 @@ html[transition] {
 }
 body {
   max-width: 680px;
-  padding: 0 14px;
+  padding: 0 30px 30px 30px;
   margin: 0 auto;
 }
 * {
@@ -113,15 +113,18 @@ input:-webkit-autofill {
   justify-content: space-between;
 }
 .header .name {
-  margin-left: 3%; 
+  margin-left: 2%; 
   margin-right: auto;
   font-size: 28px;
   font-weight: bolder;
+  font-family: "Bradley hand";
+  color: #666666;
+  text-shadow: 0.1em 0.1em 0.1em rgba(0, 0, 0, 0.18);
 }
 .header .logo {
   flex-shrink: 0;
-  width: 80px;
-  height: 80px;
+  width: 38px;
+  height: 38px;
   border-radius: 50%;
   margin-right: 10px;
   -webkit-user-drag: none;
@@ -145,6 +148,8 @@ input:-webkit-autofill {
   position: absolute;
   left: 0;
   bottom: 0;
+  padding-bottom: 15px;
+  padding-top: 30px;
   height: 10px;
   width: 100%;
   font-size: 14px;
