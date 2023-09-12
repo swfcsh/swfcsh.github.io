@@ -113,10 +113,13 @@ input:-webkit-autofill {
   justify-content: space-between;
 }
 .header .name {
-  margin-left: 3%; 
+  margin-left: 2%; 
   margin-right: auto;
-  font-size: 28px;
+  font-size: 25px;
   font-weight: bolder;
+  font-family: "Copperplate Gothic Light", serif;
+  color: #888888;
+  text-shadow: 0.1em 0.1em 0.1em rgba(0, 0, 0, 0.18);
 }
 .header .logo {
   flex-shrink: 0;
