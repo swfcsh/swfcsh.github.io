@@ -18,7 +18,7 @@ html[transition] {
 }
 body {
   max-width: 680px;
-  padding: 0 14px;
+  padding: 0 30px 30px 30px;
   margin: 0 auto;
 }
 * {
@@ -120,8 +120,8 @@ input:-webkit-autofill {
 }
 .header .logo {
   flex-shrink: 0;
-  width: 80px;
-  height: 80px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   margin-right: 10px;
   -webkit-user-drag: none;
@@ -145,6 +145,8 @@ input:-webkit-autofill {
   position: absolute;
   left: 0;
   bottom: 0;
+  padding-bottom: 15px;
+  padding-top: 30px;
   height: 10px;
   width: 100%;
   font-size: 14px;
