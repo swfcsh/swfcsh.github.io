@@ -5,7 +5,7 @@ title: X-Blog
 description: 一个记录生活和随想停留的地方
 keywords: Blog,Python,Travelling
 author: Peijun
-footerText: 'Copyright © PEIJUN 2020-2023'
+footerText: 'Copyright © PEIJUN 2023'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
