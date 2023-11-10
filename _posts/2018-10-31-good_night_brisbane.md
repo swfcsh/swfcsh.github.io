@@ -5,18 +5,14 @@ categories: [摄影]
 extMath: false
 ---
 
-> 以下内容部分节选于在QUT时的Photograph Assignment — Night BNE
-
 ### STATEMENT
 
 
-I always love to photograph the architectures in the city. When I first came to Brisbane, I found that the night scenes in Brisbane is so charming. So I decided to seek the landmarks I want to photograph and record the beautiful architectures and their lights through the lens.
+晚安，布里斯班。
 
-I explored numerous landmarks in the city, from twilight to late at night. Moving traffics become ribbons of light when I use long exposure shoots in my images, which also display the variety of color temperatures in the artificially lit architectures windows. 
+这次的主题是夜景，正好前段时间选了摄影的选修课，每个周末晚上出去拍个一两张。
 
-The beauty of the architectures and lights is beyond comprehension. Some very ordinary views that seen by eyes can become amazing after they are exposed for 30 seconds. Because when the elements come together, the result is undeniably spectacular.
-
-For me, I really enjoy that process, the process that discover and record the city where I live in, and it makes me feel evocative and stillness.
+选了几张自认为还不错的照片，放到这里记录一下。
 
 
 ### Story Bridge
