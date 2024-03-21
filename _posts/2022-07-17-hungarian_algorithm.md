@@ -71,6 +71,8 @@ extMath: false
 
 ### 一个稍复杂的例子
 
+![Hungarian Algorithm](hungarian_algorithm.png)
+
 TBA
 
 
