@@ -12,7 +12,7 @@ title: 一个记录生活和随想停留的地方
 我的感受是我自己的，我的理想是我自己的。
 </p>
 <p style="font-size: 12px;">
-所以到头来明白后我由衷的发现，别人的意见都是狗屁，别人怎么想的关我屁事。
+所以到头来明白后我由衷的发现，别人怎么想的关我屁事。
 </p>
 <p style="font-size: 12px;">
 我只要在意我自己的幸福快乐就可以了。
@@ -33,7 +33,3 @@ title: 一个记录生活和随想停留的地方
 ###### 联系我
 
 - Email&nbsp;: [swfc.sh@hotmail.com](mailto:swfc.sh@hotmail.com)
-
-~~- GitHub: [https://github.com/swfcsh](https://github.com/swfcsh)~~
-
-~~- Twitter: [@swfcsh](https://twitter.com/swfcsh)~~
