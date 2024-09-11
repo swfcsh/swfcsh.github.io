@@ -5,7 +5,7 @@ title: 贝贝哥哥的Blog
 description: 一个记录生活和随想停留的地方
 keywords: Blog,Python,Travelling
 author: 贝贝哥哥
-footerText: 'Copyright © X-Blog 2024'
+footerText: 'Copyright © Bei Bro-Blog 2024'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
