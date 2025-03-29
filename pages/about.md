@@ -23,9 +23,9 @@ title: 一个记录生活和随想停留的地方
 
 **love** Photography,
 
-**love** Touring,
+**love** Roadtrip,
 
-**love** Freedom.
+**love** Alcohol.
 
 **hate** Salmon.
 
