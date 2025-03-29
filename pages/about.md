@@ -21,7 +21,7 @@ title: 一个记录生活和随想停留的地方
 
 ###### 关于我
 
-**love** Photography,
+**love** Maltese,
 
 **love** Roadtrip,
 
